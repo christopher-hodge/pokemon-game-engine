@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\pokemon game\pokemon game\bin\Debug\pokemon game.exe.config
+C:\Users\Owner\source\repos\pokemon game\pokemon game\bin\Debug\pokemon game.exe
+C:\Users\Owner\source\repos\pokemon game\pokemon game\bin\Debug\pokemon game.pdb
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon game.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon_game.Form1.resources
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon_game.Properties.Resources.resources
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon game.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon game.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon game.exe
+C:\Users\Owner\source\repos\pokemon game\pokemon game\obj\Debug\pokemon game.pdb
